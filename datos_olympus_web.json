@@ -1,16 +1,1 @@
-{
-    "socios": {
-        "JARED": "15/05/2026",
-        "KAREN": "15/05/2026"
-    },
-    "caja_efectivo": 46.0,
-    "transferencias": 0.0,
-    "historial": [
-        "11:11 - JARED - Mes ($25) (Efectivo)",
-        "11:13 - INGRESO: JARED - Mes ($25) (Efectivo)",
-        "11:14 - \u26a0\ufe0f AJUSTE MANUAL: Error de registro",
-        "11:15 - INGRESO: KAREN - Mes (Vence: 15/05/2026) (Efectivo)",
-        "11:15 - GASTO: PAPEL (-$4.00)"
-    ],
-    "gastos_totales": 4.0
-}
+
